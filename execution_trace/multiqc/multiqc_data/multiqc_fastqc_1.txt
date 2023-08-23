@@ -1,0 +1,21 @@
+Sample	Filename	File type	Encoding	Total Sequences	Sequences flagged as poor quality	Sequence length	%GC	total_deduplicated_percentage	avg_sequence_length	basic_statistics	per_base_sequence_quality	per_tile_sequence_quality	per_sequence_quality_scores	per_base_sequence_content	per_sequence_gc_content	per_base_n_content	sequence_length_distribution	sequence_duplication_levels	overrepresented_sequences	adapter_content
+A1	A1_2_val_2.fq.gz	Conventional base calls	Sanger / Illumina 1.9	93040667.0	0.0	20-101	47.0	40.632240139082825	97.0721275031272	pass	pass	pass	pass	fail	pass	pass	warn	fail	pass	pass
+A1_1	A1_1_val_1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	93040667.0	0.0	20-101	47.0	42.0180341094482	94.69204518922892	pass	pass	pass	pass	fail	pass	pass	warn	fail	pass	pass
+A2	A2_2_val_2.fq.gz	Conventional base calls	Sanger / Illumina 1.9	84296646.0	0.0	20-101	48.0	43.092865738073286	96.94640662215672	pass	pass	pass	pass	fail	pass	pass	warn	fail	pass	pass
+A2_1	A2_1_val_1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	84296646.0	0.0	20-101	48.0	43.71874080897692	94.71254794645091	pass	pass	pass	pass	fail	pass	pass	warn	fail	pass	pass
+A3	A3_2_val_2.fq.gz	Conventional base calls	Sanger / Illumina 1.9	57340450.0	0.0	20-101	48.0	46.08996323794474	96.6505342040392	pass	pass	pass	pass	fail	pass	pass	warn	fail	pass	pass
+A3_1	A3_1_val_1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	57340450.0	0.0	20-101	48.0	46.740153142476935	94.48400404949734	pass	pass	pass	pass	fail	pass	pass	warn	fail	pass	pass
+A4	A4_2_val_2.fq.gz	Conventional base calls	Sanger / Illumina 1.9	113228437.0	0.0	20-101	47.0	39.596862895255306	96.89646038300431	pass	pass	pass	pass	fail	pass	pass	warn	fail	pass	pass
+A4_1	A4_1_val_1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	113228437.0	0.0	20-101	47.0	40.546820020031	94.51113557277135	pass	pass	pass	pass	fail	pass	pass	warn	fail	pass	pass
+A5	A5_2_val_2.fq.gz	Conventional base calls	Sanger / Illumina 1.9	66753497.0	0.0	20-101	48.0	47.702775801991834	96.5899771513094	pass	pass	pass	pass	fail	pass	pass	warn	fail	pass	pass
+A5_1	A5_1_val_1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	66753497.0	0.0	20-101	48.0	48.65279150424478	94.2835527552961	pass	pass	pass	pass	fail	pass	pass	warn	fail	pass	pass
+B1	B1_2_val_2.fq.gz	Conventional base calls	Sanger / Illumina 1.9	99564550.0	0.0	20-101	47.0	43.67581077507189	97.0066510620497	pass	pass	pass	pass	fail	pass	pass	warn	fail	pass	pass
+B1_1	B1_1_val_1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	99564550.0	0.0	20-101	47.0	44.53968744923428	94.6155773114025	pass	pass	pass	pass	fail	pass	pass	warn	fail	pass	pass
+B2	B2_2_val_2.fq.gz	Conventional base calls	Sanger / Illumina 1.9	103581179.0	0.0	20-101	48.0	42.69329887763356	96.77854537647231	pass	pass	pass	pass	fail	pass	pass	warn	fail	pass	pass
+B2_1	B2_1_val_1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	103581179.0	0.0	20-101	48.0	43.575946138528415	94.3967410720436	pass	pass	pass	pass	fail	pass	pass	warn	fail	pass	pass
+B3	B3_2_val_2.fq.gz	Conventional base calls	Sanger / Illumina 1.9	103111720.0	0.0	20-101	47.0	41.82734022619581	96.82632703634465	pass	pass	pass	pass	fail	pass	pass	warn	fail	pass	pass
+B3_1	B3_1_val_1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	103111720.0	0.0	20-101	47.0	42.66226914427103	94.38461055639456	pass	pass	pass	pass	fail	pass	pass	warn	fail	pass	pass
+B4	B4_2_val_2.fq.gz	Conventional base calls	Sanger / Illumina 1.9	86657063.0	0.0	20-101	47.0	45.09752669435817	96.92860373077725	pass	pass	pass	pass	fail	pass	pass	warn	fail	pass	pass
+B4_1	B4_1_val_1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	86657063.0	0.0	20-101	47.0	46.00914209291966	94.58360620876338	pass	pass	pass	pass	fail	pass	pass	warn	fail	pass	pass
+B5	B5_2_val_2.fq.gz	Conventional base calls	Sanger / Illumina 1.9	56844068.0	0.0	20-101	48.0	50.900299584565346	96.96643966438151	pass	pass	pass	pass	fail	pass	pass	warn	warn	pass	pass
+B5_1	B5_1_val_1.fq.gz	Conventional base calls	Sanger / Illumina 1.9	56844068.0	0.0	20-101	48.0	51.94350638334733	94.83088117479558	pass	pass	pass	pass	fail	pass	pass	warn	warn	pass	pass

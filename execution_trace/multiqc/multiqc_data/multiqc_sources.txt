@@ -1,0 +1,71 @@
+Module	Section	Sample Name	Source
+Salmon	all_sections	B5	/scratch/2421419/nxf.AXWH1Rk81U/salmon/B5/libParams/flenDist.txt
+Salmon	all_sections	A3	/scratch/2421419/nxf.AXWH1Rk81U/salmon/A3/libParams/flenDist.txt
+Salmon	all_sections	A5	/scratch/2421419/nxf.AXWH1Rk81U/salmon/A5/libParams/flenDist.txt
+Salmon	all_sections	B4	/scratch/2421419/nxf.AXWH1Rk81U/salmon/B4/libParams/flenDist.txt
+Salmon	all_sections	A2	/scratch/2421419/nxf.AXWH1Rk81U/salmon/A2/libParams/flenDist.txt
+Salmon	all_sections	A1	/scratch/2421419/nxf.AXWH1Rk81U/salmon/A1/libParams/flenDist.txt
+Salmon	all_sections	B1	/scratch/2421419/nxf.AXWH1Rk81U/salmon/B1/libParams/flenDist.txt
+Salmon	all_sections	B2	/scratch/2421419/nxf.AXWH1Rk81U/salmon/B2/libParams/flenDist.txt
+Salmon	all_sections	B3	/scratch/2421419/nxf.AXWH1Rk81U/salmon/B3/libParams/flenDist.txt
+Salmon	all_sections	A4	/scratch/2421419/nxf.AXWH1Rk81U/salmon/A4/libParams/flenDist.txt
+FastQC (raw)	all_sections	B5_1	/scratch/2421419/nxf.AXWH1Rk81U/fastqc/B5_1_fastqc.zip
+FastQC (raw)	all_sections	B5_2	/scratch/2421419/nxf.AXWH1Rk81U/fastqc/B5_2_fastqc.zip
+FastQC (raw)	all_sections	A3_1	/scratch/2421419/nxf.AXWH1Rk81U/fastqc/A3_1_fastqc.zip
+FastQC (raw)	all_sections	A3_2	/scratch/2421419/nxf.AXWH1Rk81U/fastqc/A3_2_fastqc.zip
+FastQC (raw)	all_sections	A5_1	/scratch/2421419/nxf.AXWH1Rk81U/fastqc/A5_1_fastqc.zip
+FastQC (raw)	all_sections	A5_2	/scratch/2421419/nxf.AXWH1Rk81U/fastqc/A5_2_fastqc.zip
+FastQC (raw)	all_sections	A2_1	/scratch/2421419/nxf.AXWH1Rk81U/fastqc/A2_1_fastqc.zip
+FastQC (raw)	all_sections	A2_2	/scratch/2421419/nxf.AXWH1Rk81U/fastqc/A2_2_fastqc.zip
+FastQC (raw)	all_sections	B4_1	/scratch/2421419/nxf.AXWH1Rk81U/fastqc/B4_1_fastqc.zip
+FastQC (raw)	all_sections	B4_2	/scratch/2421419/nxf.AXWH1Rk81U/fastqc/B4_2_fastqc.zip
+FastQC (raw)	all_sections	A1_1	/scratch/2421419/nxf.AXWH1Rk81U/fastqc/A1_1_fastqc.zip
+FastQC (raw)	all_sections	A1_2	/scratch/2421419/nxf.AXWH1Rk81U/fastqc/A1_2_fastqc.zip
+FastQC (raw)	all_sections	B1_1	/scratch/2421419/nxf.AXWH1Rk81U/fastqc/B1_1_fastqc.zip
+FastQC (raw)	all_sections	B1_2	/scratch/2421419/nxf.AXWH1Rk81U/fastqc/B1_2_fastqc.zip
+FastQC (raw)	all_sections	B3_1	/scratch/2421419/nxf.AXWH1Rk81U/fastqc/B3_1_fastqc.zip
+FastQC (raw)	all_sections	B3_2	/scratch/2421419/nxf.AXWH1Rk81U/fastqc/B3_2_fastqc.zip
+FastQC (raw)	all_sections	B2_1	/scratch/2421419/nxf.AXWH1Rk81U/fastqc/B2_1_fastqc.zip
+FastQC (raw)	all_sections	B2_2	/scratch/2421419/nxf.AXWH1Rk81U/fastqc/B2_2_fastqc.zip
+FastQC (raw)	all_sections	A4_1	/scratch/2421419/nxf.AXWH1Rk81U/fastqc/A4_1_fastqc.zip
+FastQC (raw)	all_sections	A4_2	/scratch/2421419/nxf.AXWH1Rk81U/fastqc/A4_2_fastqc.zip
+Cutadapt	all_sections	A3_1	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/A3_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	A3_2	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/A3_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	B5_1	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/B5_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	B5_2	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/B5_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	A5_1	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/A5_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	A5_2	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/A5_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	A2_1	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/A2_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	A2_2	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/A2_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	B4_1	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/B4_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	B4_2	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/B4_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	A1_1	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/A1_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	A1_2	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/A1_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	B1_1	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/B1_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	B1_2	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/B1_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	B3_1	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/B3_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	B3_2	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/B3_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	B2_1	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/B2_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	B2_2	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/B2_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	A4_1	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/A4_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	A4_2	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/A4_2.fastq.gz_trimming_report.txt
+FastQC (trimmed)	all_sections	A3_1	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/fastqc/A3_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	A3	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/fastqc/A3_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	B5_1	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/fastqc/B5_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	B5	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/fastqc/B5_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	A5_1	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/fastqc/A5_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	A5	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/fastqc/A5_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	A2_1	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/fastqc/A2_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	A2	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/fastqc/A2_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	B4_1	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/fastqc/B4_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	B4	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/fastqc/B4_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	A1_1	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/fastqc/A1_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	A1	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/fastqc/A1_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	B1_1	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/fastqc/B1_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	B1	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/fastqc/B1_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	B3_1	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/fastqc/B3_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	B3	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/fastqc/B3_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	B2_1	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/fastqc/B2_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	B2	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/fastqc/B2_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	A4_1	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/fastqc/A4_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	A4	/scratch/2421419/nxf.AXWH1Rk81U/trimgalore/fastqc/A4_2_val_2_fastqc.zip

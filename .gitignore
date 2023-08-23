@@ -354,3 +354,9 @@ MigrationBackup/
 
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
+
+# Jupyter notebook backup 
+rnaSeqBenchmark_backup*.ipynb
+
+# Don't publish the .gitignore file
+.gitignore
