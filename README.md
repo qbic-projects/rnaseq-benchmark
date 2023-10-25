@@ -17,7 +17,7 @@ The iGenomes Ensembl references for _Homo sapiens_ (GRCh37), _Arabidopsis thalia
 
 ## Data analysis
 The [`qbic-pipelines/rnadeseq`](https://github.com/qbic-pipelines/rnadeseq) pipeline was used to apply downstream analysis for rnaseq output with `DESeq2` to identify differentially expressed (DE) genes.
-Analysis and visualization of the DESeq2 output was performed in a Python [Jupyter Notebook](rnaSeqBenchmark.ipynb) (6.3.0), applying mainly the packages pandas (1.2.4), numpy (1.20.2), scipy.stats (1.7.0) and scikit-learn (1.0). Graphs were generated with the python packages matplotlib (3.3.4) and seaborn (0.11.2). [Venn diagrams](VennDiagrams.R) were drawn using the R (4.2.2) library VennDiagram (1.7.3).
+Analysis and visualization of the DESeq2 output was performed in a Python [Jupyter Notebook](./Code/rnaSeqBenchmark.ipynb) (6.3.0), applying mainly the packages pandas (1.2.4), numpy (1.20.2), scipy.stats (1.7.0) and scikit-learn (1.0). Graphs were generated with the python packages matplotlib (3.3.4) and seaborn (0.11.2). [Venn diagrams](./Code/VennDiagrams.R) were drawn using the R (4.2.2) library VennDiagram (1.7.3).
 
 ## Results
-A detailed report on the benchmark results can be found in this [Google Doc](https://docs.google.com/document/d/1NwB7tTy4lL-9RnjT9MbQdH66h-v-jW7tsmJGvUtT82c/edit#).
+The results were submitted to the journal `NAR Genomics and Bioinformatics` and pre-published on [BioRxiv](https://doi.org/10.1101/2023.10.04.560168): `How tool combinations in different pipeline versions affect the outcome in RNA-seq analysis`. The Authors Original Version and Supplements can also be found in the [Paper/](./Paper) folder.
