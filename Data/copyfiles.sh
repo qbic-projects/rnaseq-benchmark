@@ -1,0 +1,10 @@
+scp cfc:/sfs/9/ws/b15lw01-rnaseqBench/rnaseq_bench/runs/Human/starSalmon32/sSal32erccSRR/star_salmon/A1/quant.sf ./ssal/A1/quant.sf
+scp cfc:/sfs/9/ws/b15lw01-rnaseqBench/rnaseq_bench/runs/Human/starSalmon32/sSal32erccSRR/star_salmon/A2/quant.sf ./ssal/A2/quant.sf
+scp cfc:/sfs/9/ws/b15lw01-rnaseqBench/rnaseq_bench/runs/Human/starSalmon32/sSal32erccSRR/star_salmon/A3/quant.sf ./ssal/A3/quant.sf
+scp cfc:/sfs/9/ws/b15lw01-rnaseqBench/rnaseq_bench/runs/Human/starSalmon32/sSal32erccSRR/star_salmon/A4/quant.sf ./ssal/A4/quant.sf
+scp cfc:/sfs/9/ws/b15lw01-rnaseqBench/rnaseq_bench/runs/Human/starSalmon32/sSal32erccSRR/star_salmon/A5/quant.sf ./ssal/A5/quant.sf
+scp cfc:/sfs/9/ws/b15lw01-rnaseqBench/rnaseq_bench/runs/Human/starSalmon32/sSal32erccSRR/star_salmon/B1/quant.sf ./ssal/B1/quant.sf
+scp cfc:/sfs/9/ws/b15lw01-rnaseqBench/rnaseq_bench/runs/Human/starSalmon32/sSal32erccSRR/star_salmon/B2/quant.sf ./ssal/B2/quant.sf
+scp cfc:/sfs/9/ws/b15lw01-rnaseqBench/rnaseq_bench/runs/Human/starSalmon32/sSal32erccSRR/star_salmon/B3/quant.sf ./ssal/B3/quant.sf
+scp cfc:/sfs/9/ws/b15lw01-rnaseqBench/rnaseq_bench/runs/Human/starSalmon32/sSal32erccSRR/star_salmon/B4/quant.sf ./ssal/B4/quant.sf
+scp cfc:/sfs/9/ws/b15lw01-rnaseqBench/rnaseq_bench/runs/Human/starSalmon32/sSal32erccSRR/star_salmon/B5/quant.sf ./ssal/B5/quant.sf
